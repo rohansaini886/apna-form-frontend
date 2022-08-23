@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(7, 7, 7, 0.75);
+}
+p {
+    color: rgb(177, 173, 173);
+    text-align: center;
+    font-size: x-large;
+    font-family: cursive;
+}
+ 
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+li{
+    float: right;
+}
+
+li a {
+    display: block;
+    color: rgb(177, 173, 173);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+input[type = text] {
+    border: 2px;
+    border-radius: 8px;
+    padding: 10px 100px;
+    line-height: 18px;
+}
+
+input[type = submit]{
+    font-family: cursive;
+    background-color: blanchedalmond;
+    border: 2px;
+    border-radius: 8px;
+    padding: 10px 100px;
+    line-height: 18px;
+}
