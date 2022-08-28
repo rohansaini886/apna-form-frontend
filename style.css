@@ -28,7 +28,17 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
 input[type = text] {
+    margin-left: 10px;
+    border: 2px;
+    border-radius: 8px;
+    padding: 10px 100px;
+    line-height: 18px;
+}
+
+input[type = date] {
+    margin-left: 10px;
     border: 2px;
     border-radius: 8px;
     padding: 10px 100px;
@@ -42,4 +52,20 @@ input[type = submit]{
     border-radius: 8px;
     padding: 10px 100px;
     line-height: 18px;
+}
+
+mrg{
+    margin-left: 75px;
+}
+
+mrg1{
+    margin-left: 5px;
+}
+
+mrg2{
+    margin-left: 3px;
+}
+
+mrge{
+    margin-left: 10px;
 }
